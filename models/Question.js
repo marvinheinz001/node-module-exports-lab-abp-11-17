@@ -6,4 +6,4 @@ class Question {
   }
 }
 
-module.exports = Question 
+const Question = require(`./greeting.js`)
