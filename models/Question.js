@@ -5,5 +5,3 @@ class Question {
 
   }
 }
-
-const Question = require('./question.js')
