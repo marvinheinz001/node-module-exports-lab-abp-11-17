@@ -6,4 +6,4 @@ class Question {
   }
 }
 
-const Question = require('./Icebreaker.js')
+const Question = require('./question.js')
