@@ -6,4 +6,4 @@ class Question {
   }
 }
 
-const Question = require(`./greeting.js`)
+const Question = require('./greeting.js')
